@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '\n cmsimde_site \n \n', 'tags': '', 'url': 'About.html'}, {'title': '2b-pj1bg6', 'text': '', 'tags': '', 'url': '2b-pj1bg6.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '\n cmsimde_site \n \n', 'tags': '', 'url': 'About.html'}, {'title': '2b-pj1bg6', 'text': '網頁: https://mdecd2023.github.io/2b-pj1bg6/content/index.html', 'tags': '', 'url': '2b-pj1bg6.html'}]};
