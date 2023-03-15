@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '\n cmsimde_site \n \n', 'tags': '', 'url': 'About.html'}, {'title': '2b-pj1bg6', 'text': '網頁: https://mdecd2023.github.io/2b-pj1bg6/content/index.html', 'tags': '', 'url': '2b-pj1bg6.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '組員:41023234 黃仕鈞\xa0 \n \xa0 \xa0 \xa0 \xa0 \xa0 \xa041023247劉學宇 \n 網頁: https://mdecd2023.github.io/2b-pj1bg6/content/index.html \n 倉儲: https://github.com/mdecd2023/2b-pj1bg6', 'tags': '', 'url': 'About.html'}]};
